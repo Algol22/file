@@ -51,6 +51,32 @@
         }
       ],
       "correctAnswerIndex": 0
+    },
+     {
+      "question": "How are you? ",
+      "options": [
+        {
+          "id": "0",
+          "option": "A",
+          "answer": "Asia"
+        },
+        {
+          "id": "1",
+          "option": "B",
+          "answer": "South Africa"
+        },
+        {
+          "id": "2",
+          "option": "C",
+          "answer": "Australia"
+        },
+        {
+          "id": "3",
+          "option": "D",
+          "answer": "Antarctica"
+        }
+      ],
+      "correctAnswerIndex": 0
     }
   ]
 }
